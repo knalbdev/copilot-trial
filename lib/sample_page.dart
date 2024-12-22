@@ -10,6 +10,6 @@ class SamplePage extends StatefulWidget {
 class _SamplePageState extends State<SamplePage> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Scaffold();
   }
 }
